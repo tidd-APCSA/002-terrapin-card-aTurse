@@ -1,6 +1,5 @@
 public class TerrapinCard {
-
-  private double balance;
+ private double balance;
   private double econCost = 2.50;
   private double gourmetCost = 4.00;
   
@@ -38,9 +37,8 @@ public class TerrapinCard {
       balance = balance + amount;
     }
     }
-
-
-
-
 }
+
+
+
 }
